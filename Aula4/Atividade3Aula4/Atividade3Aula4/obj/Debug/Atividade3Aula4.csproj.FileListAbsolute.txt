@@ -1,0 +1,7 @@
+C:\Users\Alunos\Desktop\Atividade3Aula4\Atividade3Aula4\bin\Debug\Atividade3Aula4.exe.config
+C:\Users\Alunos\Desktop\Atividade3Aula4\Atividade3Aula4\bin\Debug\Atividade3Aula4.exe
+C:\Users\Alunos\Desktop\Atividade3Aula4\Atividade3Aula4\bin\Debug\Atividade3Aula4.pdb
+C:\Users\Alunos\Desktop\Atividade3Aula4\Atividade3Aula4\obj\Debug\Atividade3Aula4.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\Atividade3Aula4\Atividade3Aula4\obj\Debug\Atividade3Aula4.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Atividade3Aula4\Atividade3Aula4\obj\Debug\Atividade3Aula4.exe
+C:\Users\Alunos\Desktop\Atividade3Aula4\Atividade3Aula4\obj\Debug\Atividade3Aula4.pdb

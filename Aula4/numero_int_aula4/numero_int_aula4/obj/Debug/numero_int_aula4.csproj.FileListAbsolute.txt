@@ -1,0 +1,7 @@
+C:\Users\Alunos\Desktop\LPR2026\Aula4\numero_int_aula4\numero_int_aula4\bin\Debug\numero_int_aula4.exe.config
+C:\Users\Alunos\Desktop\LPR2026\Aula4\numero_int_aula4\numero_int_aula4\bin\Debug\numero_int_aula4.exe
+C:\Users\Alunos\Desktop\LPR2026\Aula4\numero_int_aula4\numero_int_aula4\bin\Debug\numero_int_aula4.pdb
+C:\Users\Alunos\Desktop\LPR2026\Aula4\numero_int_aula4\numero_int_aula4\obj\Debug\numero_int_aula4.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\LPR2026\Aula4\numero_int_aula4\numero_int_aula4\obj\Debug\numero_int_aula4.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR2026\Aula4\numero_int_aula4\numero_int_aula4\obj\Debug\numero_int_aula4.exe
+C:\Users\Alunos\Desktop\LPR2026\Aula4\numero_int_aula4\numero_int_aula4\obj\Debug\numero_int_aula4.pdb
