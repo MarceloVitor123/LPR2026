@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\LPR2026\aula5\projetoCsTeste\bin\Debug\net8.0\projetoCsTeste.exe
+C:\Users\Alunos\Desktop\LPR2026\aula5\projetoCsTeste\bin\Debug\net8.0\projetoCsTeste.deps.json
+C:\Users\Alunos\Desktop\LPR2026\aula5\projetoCsTeste\bin\Debug\net8.0\projetoCsTeste.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR2026\aula5\projetoCsTeste\bin\Debug\net8.0\projetoCsTeste.dll
+C:\Users\Alunos\Desktop\LPR2026\aula5\projetoCsTeste\bin\Debug\net8.0\projetoCsTeste.pdb
+C:\Users\Alunos\Desktop\LPR2026\aula5\projetoCsTeste\obj\Debug\net8.0\projetoCsTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR2026\aula5\projetoCsTeste\obj\Debug\net8.0\projetoCsTeste.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR2026\aula5\projetoCsTeste\obj\Debug\net8.0\projetoCsTeste.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR2026\aula5\projetoCsTeste\obj\Debug\net8.0\projetoCsTeste.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR2026\aula5\projetoCsTeste\obj\Debug\net8.0\projetoCsTeste.sourcelink.json
+C:\Users\Alunos\Desktop\LPR2026\aula5\projetoCsTeste\obj\Debug\net8.0\projetoCsTeste.dll
+C:\Users\Alunos\Desktop\LPR2026\aula5\projetoCsTeste\obj\Debug\net8.0\refint\projetoCsTeste.dll
+C:\Users\Alunos\Desktop\LPR2026\aula5\projetoCsTeste\obj\Debug\net8.0\projetoCsTeste.pdb
+C:\Users\Alunos\Desktop\LPR2026\aula5\projetoCsTeste\obj\Debug\net8.0\projetoCsTeste.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR2026\aula5\projetoCsTeste\obj\Debug\net8.0\ref\projetoCsTeste.dll
