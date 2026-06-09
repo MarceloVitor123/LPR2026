@@ -1,0 +1,36 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        int[,] matriz = new int[4,4];
+        int[,] matriz = {{0, 524, 521, 882}, {524, 0, 434, 586}, {521, 434, 0, 429}, {882, 586, 429, 0}};
+        int cidade1, cidade2;
+
+        do
+        {
+            
+        for(int linha = 0; linha < 4; linha++){
+            for(int coluna = 0; coluna < 4; coluna++){
+
+                Console.Write("Digite o nome da primeira cidade: ");
+                cidade1 = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Digite o nome da segunda cidade: ");
+                cidade2 = Convert.ToInt32(Console.ReadLine());
+
+                if(cidade1 == cidade2){
+                    Console.WriteLine("Cidades iguais");
+                }
+                else{
+                    int distancia = matriz[cidade1, cidade2];
+                    Console.WriteLine($"Distancia entre {cidades[cidade1]} e {cidades[cidade2]}: {distancia} km");
+                }
+            }
+
+        }
+
+            }while (cidade1 != cidade2);
+
+            }
+        }
