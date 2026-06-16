@@ -15,26 +15,26 @@ vector<int> numimpares(10);
 
     while(contador < 10)
     {
-            contador++;
-            
         
-            if(digito % 2 == 0){
+        
+        if(digito % 2 == 0){
             numpares[contador];
             
-            }
-            else{
+        }
+        else{
             numimpares[contador];
-              
-            }
+            
+        }
         
+        contador++;
     }
 
-    for(int i = 0; i < 10; i++){
+   /* for(int i = 0; i < 10; i++){
         if(contador != 0){
             cin >> numeros[i];
         cout << "Números pares: " << numpares[i] << endl;
         cout << "Números pares: " <<  numimpares[i] << endl;
     }
     
-}
+}*/
 }
