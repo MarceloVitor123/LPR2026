@@ -1,0 +1,55 @@
+using System;
+
+namespace MeuPrograma
+{
+    public struct Heroi{
+        public string Nome;
+        public string Poder;
+        public double Pontuacao;
+    }
+
+    class Program
+    {
+        static Heroi[] herois = new Heroi[5];
+
+        static void cadastrarHeroi()
+        {
+            for(int i = 0; i <= 5; i++){
+            Console.WriteLine("Escreva o nome do herói: ");
+            nome = Console.ReadLine();
+            Console.WriteLine("Escreva o poder do herói: ");
+            poder = Console.ReadLine();
+            Console.WriteLine("Escreva a pontução do herói: ");
+            pontuacao = Convert.ToDouble(Console.ReadLine());
+            }
+        }
+        static void selecionarEquipe()
+        {
+            for(int i = 0; i <= 3; i++){
+            Console.WriteLine("Selecione a sua equipe: ");
+            Console.WriteLine("1-Homem de ferro");
+            Console.WriteLine("2-Hulk");
+            Console.WriteLine("3-Thor");
+            Console.WriteLine("4-Capitão América");
+            Console.WriteLine("5-Homem-aranha");
+            }
+        }
+        static void calcularPontuacaoTotal()
+        {
+            pt = 
+        }
+        static void exibirEquipe()
+        {
+            Console.WriteLine("Heróis da sua equipe: ");
+            for (Heroi heroi in herois) 
+            Console.WriteLine("Poder dos heróis da sua equipe: ");
+        }
+        static void Main(string[] args)
+        {
+            string nome, poder;
+            double pontuacao, pt;
+            
+
+        }
+    }
+}
