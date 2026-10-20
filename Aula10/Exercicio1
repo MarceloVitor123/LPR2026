@@ -1,0 +1,26 @@
+using System;
+
+namespace MeuPrograma
+{
+     class Retangulo
+    {
+       public double Altura, Largura; //atributo
+
+       public void calcArea(){
+        double area = b * h;
+       };
+       public void calPerimetro(){
+        double perimetro = (2 * b) + (2 * h);
+       }; //método
+    }
+
+    class Program
+    {
+        
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Digite a largura do retangulo: ");
+            
+        }
+    }
+}
