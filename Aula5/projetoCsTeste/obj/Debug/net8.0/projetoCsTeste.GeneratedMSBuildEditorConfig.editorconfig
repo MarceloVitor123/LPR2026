@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = projetoCsTeste
-build_property.ProjectDir = C:\Users\Alunos\Desktop\LPR2026\aula5\projetoCsTeste\
+build_property.ProjectDir = C:\Users\Alunos\LPR2026\Aula5\projetoCsTeste\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
